@@ -46,11 +46,6 @@ a bat file in write to it "Del BOOT.exe"
 
 
 
-Important!!!
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you see an extension like this *.abc_exe rename
-it to *.exe  (I added abc_ because I couldn't mail 
-exe files).
 
 
 
